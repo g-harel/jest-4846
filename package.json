@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ],
+    "testMatch": [
+      "**/*test.js",
+      "!**/test/**/*"
+    ]
+  }
+}
